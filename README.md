@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashusaklani
-- 👀 I’m interested in writing code 👨‍💻 and playing guitar🎸
+- 👀 I’m interested in solving problems 👨‍💻 and playing guitar🎸
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me out 👉saklaniashu128@gmail.com
